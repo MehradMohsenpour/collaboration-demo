@@ -1,2 +1,7 @@
 Collaboration Demo Project
 Version 1.0
+
+Features:
+- Automated CI pipeline validation
+- Standard Git collaborative workflow
+- Release Target: v1.1-ready
