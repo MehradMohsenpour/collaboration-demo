@@ -1,3 +1,4 @@
+echo "Collaboration Demo Project - Edition Alpha" > app.txt
 Collaboration Demo Project
 Version 1.0
 
